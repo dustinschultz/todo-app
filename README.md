@@ -17,3 +17,7 @@ Run via command line
 # Found a bug?
 
 Fork, improve and PR. ;-)
+
+# Questions / Comments
+
+Contact me at [http://dustin.schultz.io](http://dustin.schultz.io/)
